@@ -3,7 +3,6 @@
 <!--  <h1 align="center">I'M AKASH</h1> -->
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JAVASCRIPT...
 - 🌱 I’m currently learning ReactJS...
